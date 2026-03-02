@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カナタボシ",
+  "base_artist": "岡咲美保",
+  "createdAt": "2026-03-02T14:00:27.407858Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カナタボシ",
+      "artist": "岡咲美保",
+      "has_synced": false,
+      "path": "select/pl_01_カナタボシ_岡咲美保.txt"
+    }
+  ]
+}
